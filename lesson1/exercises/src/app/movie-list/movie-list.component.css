@@ -1,0 +1,11 @@
+.movies {
+    color: navy;
+}
+
+.movies h3 {
+    text-align: center;
+}
+
+.movies ol {
+    font-size: 1.25rem;
+}
